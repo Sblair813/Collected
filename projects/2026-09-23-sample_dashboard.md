@@ -10,7 +10,7 @@ Rather than compromising on the depth of the data analysis, I leveraged my data 
 
 ---
 
-## 🛠️ The Tactical Approach & Tech Stack
+## 🛠️ The Tactical Approach & Tech Stack 
 
 ### 1. High-Volume Data Crunching via Python Scripting
 Telecom data arrays—tracking heavy traffic logs, usage records, and infrastructure performance—are notoriously massive. Without a SQL engine to aggregate and clean these records, I wrote custom Python scripts utilizing the **Pandas** library. 
