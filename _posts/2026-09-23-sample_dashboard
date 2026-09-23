@@ -28,7 +28,8 @@ With the heavy number crunching and data transformations completed via Python, I
 
 You can access the underlying structural layout of the completed assignment using the resource directory paths below:
 
-* 📥 **Interactive Workbook:** [Download the Completed Excel Analytics Model]({{ '/assets/css/inventory-model.xlsx' | relative_url }})
+* 📥 **Interactive Workbook:** [Download the Completed Excel Analytics Model]({{ '/assets/css/Dashboard_Sample.xlsx' | relative_url }})
+
 * 💻 **The Python Engine:** [View the Data Prep Scripts (If stored in repo)](./)
 
 ---
