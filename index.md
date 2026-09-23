@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Product Management & Operations Leadership"
+title: "Technology Leadership & Systems Architecture"
 ---
 
-# Product Management & Operations Leadership
+# Technology Leadership & Systems Architecture
 
-Welcome! Here you'll find operational case studies, product management toolbox tips, and insights on supply chain systems and enterprise workflows.
+Welcome! Here you'll find a collection of 'information' that has helped my success.
 
-## Published Articles & Case Studies
+## Published Articles & Projects
 
 {% for post in site.posts %}
 * **{{ post.date | date: "%b %-d, %Y" }}** — [{{ post.title }}]({{ post.url | relative_url }})
