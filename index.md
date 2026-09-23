@@ -3,17 +3,26 @@ layout: default
 title: Home
 ---
 
+<style>
+  /* Hides the default theme header bar on the homepage */
+  .site-header { display: none !important; }
+</style>
+
 <!-- 1. ABOUT ME SECTION -->
-<section class="about-section" style="padding: 24px 0; border-bottom: 1px solid #e2e8f0; margin-bottom: 36px;">
-  <div style="max-width: 720px; line-height: 1.6; color: #334155; margin-bottom: 20px;">
-    {% include about.md %}
-  </div>
-  
-  <div class="about-links">
-    <a href="https://www.linkedin.com/in/susan-b-122067147/" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; background-color: #0077b5; color: #ffffff; font-weight: 600; font-size: 0.875rem; padding: 8px 16px; border-radius: 6px; text-decoration: none;">
-      Connect on LinkedIn &rarr;
-    </a>
-  </div>
+<section class="about-section" style="padding-top: 10px; border-bottom: 1px solid #e2e8f0; margin-bottom: 36px;">
+
+<div style="max-width: 720px; line-height: 1.6; color: #334155; margin-bottom: 20px;">
+
+{% include about.md %}
+
+</div>
+
+<div class="about-links">
+  <a href="https://www.linkedin.com/in/susan-b-122067147/" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; background-color: #0077b5; color: #ffffff; font-weight: 600; font-size: 0.875rem; padding: 8px 16px; border-radius: 6px; text-decoration: none;">
+    Connect on LinkedIn &rarr;
+  </a>
+</div>
+
 </section>
 
 <!-- 2. ARTICLES SECTION -->
