@@ -85,9 +85,9 @@ In manufacturing: Reorganized process documentation reduced training time by 50%
 
 **Three Red Flags: Stop Reading If You See These**
 
-1. The instructions are long, dense paragraphs. If you have to reread to understand, the structure is wrong.
-2. It looks professional but you’re confused. Pretty design does not equal clarity. If you’re confused, stop. The documentation failed.
-3. You can’t find what you need. If the page isn’t scannable and organized logically, it’s not functional — no matter how nice it looks.
+1. **The instructions are long, dense paragraphs.** If you have to reread to understand, the structure is wrong.
+2. **It looks professional but you’re confused.** Pretty design does not equal clarity. If you’re confused, stop. The documentation failed.
+3. **You can’t find what you need.** If the page isn’t scannable and organized logically, it’s not functional — no matter how nice it looks.
 
 **The Bottom Line**
 
