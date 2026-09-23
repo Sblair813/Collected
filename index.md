@@ -57,23 +57,28 @@ title: Home
   </div>
 
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px;">
-    {% assign project_pages = site.pages | where_exp: "item", "item.path contains 'projects/'" %}
-    {% for project in project_pages %}
-      <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 20px;">
-        <h3 style="font-size: 1.05rem; font-weight: 600; margin-top: 0; margin-bottom: 8px; color: #0f172a;">
-          {{ project.title | escape }}
-        </h3>
-        {% if project.description %}
-          <p style="font-size: 0.9rem; color: #475569; margin-bottom: 12px; line-height: 1.5;">
-            {{ project.description }}
-          </p>
-        {% endif %}
-        <a href="{{ project.url | relative_url }}" style="font-size: 0.875rem; font-weight: 600; color: #2563eb; text-decoration: none;">View Project &rarr;</a>
-      </div>
-    {% else %}
+    {% assign count = 0 %}
+    {% for project in site.pages %}
+      {% if project.path contains 'projects/' and project.name != 'index.md' %}
+        {% assign count = count | plus: 1 %}
+        <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 20px;">
+          <h3 style="font-size: 1.05rem; font-weight: 600; margin-top: 0; margin-bottom: 8px; color: #0f172a;">
+            {{ project.title | escape }}
+          </h3>
+          {% if project.description %}
+            <p style="font-size: 0.9rem; color: #475569; margin-bottom: 12px; line-height: 1.5;">
+              {{ project.description }}
+            </p>
+          {% endif %}
+          <a href="{{ project.url | relative_url }}" style="font-size: 0.875rem; font-weight: 600; color: #2563eb; text-decoration: none;">View Project &rarr;</a>
+        </div>
+      {% endif %}
+    {% endfor %}
+
+    {% if count == 0 %}
       <div style="padding: 16px; color: #64748b; font-style: italic;">
         Projects folder contents will appear here once created.
       </div>
-    {% endfor %}
+    {% endif %}
   </div>
 </section>
