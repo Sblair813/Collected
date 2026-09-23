@@ -3,7 +3,7 @@ description: 'A collection of articles and projects.'
 theme: minima
 
 baseurl: "/SBCollected"
-url: "https://github.io"
+url: "https://sblair813.github.io"
 defaults:
   - scope:
       path: ""       # An empty string means look across the entire project repository
