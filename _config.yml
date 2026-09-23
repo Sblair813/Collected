@@ -1,3 +1,7 @@
 YAML
+title: "Product Management & Operations Leadership"
+description: "Operational case studies, product manager toolbox tips, and enterprise workflow strategies."
+theme: jekyll-theme-minima
+
 baseurl: "/SBCollected"
 url: "https://sblair813.github.io"
