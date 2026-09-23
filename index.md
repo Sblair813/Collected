@@ -57,7 +57,7 @@ title: Home
   </div>
 
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px;">
-    {% assign project_pages = site.pages | where_exp: "item", "item.path contains 'Projects/'" %}
+    {% assign project_pages = site.pages | where_exp: "item", "item.path contains 'projects/'" %}
     {% for project in project_pages %}
       <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 20px;">
         <h3 style="font-size: 1.05rem; font-weight: 600; margin-top: 0; margin-bottom: 8px; color: #0f172a;">
