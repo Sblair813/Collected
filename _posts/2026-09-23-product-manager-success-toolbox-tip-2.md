@@ -13,6 +13,7 @@ This single practice changed everything about how we solved problems.
 ---
 
 **The Problem Most Teams Face**
+
 Typical scenario: A stakeholder comes to you with an issue. "We have a problem at the pack station. Associates are sending parcels to exception when they shouldn't be."
 **Without documented workflows:**
 * You ask questions to understand the problem
@@ -33,6 +34,7 @@ The difference? Time, accuracy, and impact.
 ---
 
 **Real Example: The Pack Station Scanning Errors**
+
 A stakeholder came to me with an issue: associates at the pack station were getting scanning errors but had no idea why they were happening or what to do next.
 Instead of guessing, I pulled up our documented pack station workflow. Instantly, I could see:
 * Every decision point in the packing process
