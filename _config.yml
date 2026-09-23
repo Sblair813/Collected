@@ -6,6 +6,7 @@ baseurl: "/SBCollected"
 url: "https://github.io"
 defaults:
   - scope:
-      path: "_posts/**/*"
+      path: ""       # An empty string means look across the entire project repository
+      type: "posts"  # This targets every single post file, even those deep in subfolders
     values:
-      categories: []
+      categories: [] # Strips out the folder-based categories automatically
