@@ -19,4 +19,4 @@ I am a Senior Application Systems Analyst, Solutions Architect, and De Facto Pro
 
 ### Connect
 
-Feel free to connect or reach out via [LinkedIn](https://www.linkedin.com/in/susan-b-122067147/) or check out my case studies on the home page.
+Feel free to connect or reach out via [LinkedIn](https://www.linkedin.com/in/susan-b-122067147/).
