@@ -4,11 +4,11 @@ title: Home
 ---
 
 <style>
+  /* Hides the default theme header bar on the homepage */
   .site-header { display: none !important; }
 </style>
 
 <!-- 1. ABOUT ME SECTION -->
-<section class="about-section" style="padding: 24px 0; border-bottom: 1px solid #e2e8f0; margin-bottom: 36px;">
 ## Technology Leadership & Product Architecture
 
 Senior Application Systems Analyst, Solutions Architect, and De Facto Product Manager specializing in enterprise supply chain transformations, ERP implementations, and complex systems integrations. Over years of hands-on technical leadership, I have bridged the gap between operational reality and software design—driving product ownership, architecting scalable platform solutions, and managing end-to-end delivery for critical business systems.
@@ -25,7 +25,9 @@ Senior Application Systems Analyst, Solutions Architect, and De Facto Product Ma
 
 Feel free to connect or reach out via [LinkedIn](https://www.linkedin.com/in/susan-b-122067147/).
 
-</section>
+<br>
+
+---
 
 <!-- 2. ARTICLES SECTION -->
 <section class="articles-section" style="margin-bottom: 36px; padding-bottom: 24px; border-bottom: 1px solid #e2e8f0;">
