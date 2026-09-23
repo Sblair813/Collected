@@ -7,7 +7,6 @@ Senior Application Systems Analyst, Solutions Architect, and De Facto Product Ma
 * **Product & Systems Strategy:** Articles or frameworks on serving as a de facto product manager—translating complex operational challenges into technical requirements, architecture blueprints, and execution roadmaps.
 * **Instructional Documentation & Training:** Designing clear, actionable documentation to ensure seamless user adoption and retention.
 * **Change Compliance:** Insights and practical templates for building clear technical documentation, compliance frameworks, and training programs that ensure long-term user adoption.
-* **Enterprise Integrations:** Coming Soon- Managing cross-functional workflows across ERP platforms, WMS environments, and 3PL integrations.
 
 ---
 
