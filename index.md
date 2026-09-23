@@ -13,7 +13,7 @@ title: Home
 
 <div style="max-width: 720px; line-height: 1.6; color: #334155; margin-bottom: 20px;">
 
-{% include about.md %}
+{% include_relative about.md %}
 
 </div>
 
