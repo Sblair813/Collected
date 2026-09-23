@@ -14,3 +14,46 @@ h1, h2, h3, h4, h5, h6, .site-title, .page-link {
   font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
   font-weight: 600 !important;
 }
+
+/* Hide default minima footer */
+.site-footer {
+  display: none !important;
+}
+
+/* Custom Sleek Footer Styles */
+.custom-footer {
+  border-top: 1px solid #e8e8e8;
+  padding: 25px 0;
+  margin-top: 60px;
+  font-size: 0.875rem;
+  color: #666;
+
+  .footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  .footer-title {
+    font-weight: 600;
+    color: #333;
+  }
+
+  .footer-divider {
+    margin: 0 6px;
+    color: #ccc;
+  }
+
+  .footer-right a {
+    color: #666;
+    margin-left: 16px;
+    text-decoration: none;
+
+    &:hover {
+      color: #000;
+      text-decoration: underline;
+    }
+  }
+}
