@@ -9,14 +9,21 @@ title: Home
 
 <!-- 1. ABOUT ME SECTION -->
 <section class="about-section" style="padding: 24px 0; border-bottom: 1px solid #e2e8f0; margin-bottom: 36px;">
+## Technology Leadership & Product Architecture
 
-{% include_relative about.md %}
+Senior Application Systems Analyst, Solutions Architect, and De Facto Product Manager specializing in enterprise supply chain transformations, ERP implementations, and complex systems integrations. Over years of hands-on technical leadership, I have bridged the gap between operational reality and software design—driving product ownership, architecting scalable platform solutions, and managing end-to-end delivery for critical business systems.
 
-<div class="about-links" style="margin-top: 20px;">
-  <a href="https://www.linkedin.com/in/susan-b-122067147/" target="_blank" rel="noopener" style="display: inline-flex; align-items: center; background-color: #0077b5; color: #ffffff; font-weight: 600; font-size: 0.875rem; padding: 8px 16px; border-radius: 6px; text-decoration: none;">
-    Connect on LinkedIn &rarr;
-  </a>
-</div>
+### Featured Discussions
+
+* **Product & Systems Strategy:** Articles or frameworks on serving as a de facto product manager—translating complex operational challenges into technical requirements, architecture blueprints, and execution roadmaps.
+* **Instructional Documentation & Training:** Designing clear, actionable documentation to ensure seamless user adoption and retention.
+* **Change Compliance:** Insights and practical templates for building clear technical documentation, compliance frameworks, and training programs that ensure long-term user adoption.
+
+---
+
+### Connect
+
+Feel free to connect or reach out via [LinkedIn](https://www.linkedin.com/in/susan-b-122067147/).
 
 </section>
 
