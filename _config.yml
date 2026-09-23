@@ -4,3 +4,8 @@ theme: minima
 
 baseurl: "/SBCollected"
 url: "https://github.io"
+defaults:
+  - scope:
+      path: "_posts/**/*"
+    values:
+      categories: []
