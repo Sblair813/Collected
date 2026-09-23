@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Resourceful Data Engineering: Building a Telecom Analytics Dashboard Under Constraints"
+layout: default
+title: "Resourceful Data Engineering, Building a Telecom Analytics Dashboard Under Constraints"
 description: "How I engineered a tactical telecom network dashboard using Python data pipelines and advanced Excel modeling when standard enterprise tools were unavailable."
 ---
 
