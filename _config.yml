@@ -1,11 +1,5 @@
-YAML
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-  
-title: "Product Management & Operations Leadership"
-description: "Operational case studies, product manager toolbox tips, and enterprise workflow strategies."
+yamltitle: 'Susan Blair Collected'
+description: 'Operational case studies, Product Manager toolbox tips, Strategies for Success, so forth.'
 theme: jekyll-theme-minima
 
 baseurl: "/SBCollected"
