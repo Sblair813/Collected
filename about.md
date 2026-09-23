@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-## Product Management & Operations Leadership
+## Technology Leadership & Product Architecture
 
-Welcome! I specialize in product management, enterprise systems integration, and operational workflows—focusing on supply chain optimization, ERP rollouts, and warehouse management systems (WMS).
+I am a Senior Application Systems Analyst, Solutions Architect, and De Facto Product Manager specializing in enterprise supply chain transformations, ERP implementations, and complex systems integrations. Over years of hands-on technical leadership, I have bridged the gap between operational reality and software design—driving product ownership, architecting scalable platform solutions, and managing end-to-end delivery for critical business systems.
 
-### Core Competencies
+### Featured Discussions
 
-* **Product & Systems Strategy:** Translating complex operational challenges into scalable system architectures and clear product roadmaps.
-* **Enterprise Integrations:** Managing cross-functional workflows across ERP platforms, WMS environments, and 3PL integrations.
-* **Operational Documentation & Training:** Designing clear, actionable documentation and change compliance templates to ensure seamless user adoption.
+* **Product & Systems Strategy:** Articles or frameworks on serving as a de facto product manager—translating complex operational challenges into technical requirements, architecture blueprints, and execution roadmaps.
+* **Instructional Documentation & Training:** Designing clear, actionable documentation to ensure seamless user adoption and retention.
+* **Change Compliance:** Insights and practical templates for building clear technical documentation, compliance frameworks, and training programs that ensure long-term user adoption.
+* **Enterprise Integrations:** Coming Soon- Managing cross-functional workflows across ERP platforms, WMS environments, and 3PL integrations.
 
 ---
 
