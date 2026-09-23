@@ -28,7 +28,7 @@ With the heavy number crunching and data transformations completed via Python, I
 
 You can access the underlying structural layout of the completed assignment using the resource directory paths below:
 
-* 📥 **Interactive Workbook:** [Download the Completed Excel Analytics Model]({{ '/assets/css/Dashboard_Sample.xlsx' | relative_url }})
+* 📥 **Interactive Workbook:** [Download the Completed Excel Analytics Model]({{ '/projects/sample_tele_dashboard.xlsx' | relative_url }})
 
 * 💻 **The Python Engine:**  [View the Telecom Data Prep Script](../scripts/telecom_data_prep.py)
 
