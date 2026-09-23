@@ -1,4 +1,4 @@
-yaml---
+---
 layout: home
 title: "Susan Blair Collected"
 ---
