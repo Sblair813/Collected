@@ -1,6 +1,6 @@
 ## Technology Leadership & Product Architecture
 
-I am a Senior Application Systems Analyst, Solutions Architect, and De Facto Product Manager specializing in enterprise supply chain transformations, ERP implementations, and complex systems integrations. Over years of hands-on technical leadership, I have bridged the gap between operational reality and software design—driving product ownership, architecting scalable platform solutions, and managing end-to-end delivery for critical business systems.
+Senior Application Systems Analyst, Solutions Architect, and De Facto Product Manager specializing in enterprise supply chain transformations, ERP implementations, and complex systems integrations. Over years of hands-on technical leadership, I have bridged the gap between operational reality and software design—driving product ownership, architecting scalable platform solutions, and managing end-to-end delivery for critical business systems.
 
 ### Featured Discussions
 
