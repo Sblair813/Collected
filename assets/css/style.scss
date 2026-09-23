@@ -2,7 +2,9 @@ SCSS
 ---
 ---
 
-/* Pure CSS Font Import - Bypass SASS Minima Import Bug */
+@import "minima";
+
+/* Pure CSS Font Import */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
 body, p, li, a, input, textarea {
@@ -15,45 +17,10 @@ h1, h2, h3, h4, h5, h6, .site-title, .page-link {
   font-weight: 600 !important;
 }
 
-/* Hide default minima footer */
 .site-footer {
-  display: none !important;
-}
-
-/* Custom Sleek Footer Styles */
-.custom-footer {
   border-top: 1px solid #e8e8e8;
   padding: 25px 0;
   margin-top: 60px;
   font-size: 0.875rem;
-  color: #4a4a4a;
-
-  .footer-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 12px;
-  }
-
-  .footer-title {
-    font-weight: 600;
-    color: #333;
-  }
-
-  .footer-divider {
-    margin: 0 6px;
-    color: #ccc;
-  }
-
-  .footer-right a {
-    color: #4a5568;
-    margin-left: 16px;
-    text-decoration: none;
-
-    &:hover {
-      color: #000;
-      text-decoration: underline;
-    }
-  }
+  background-color: transparent;
 }
