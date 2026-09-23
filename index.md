@@ -6,8 +6,7 @@ title: Home
 <!-- 1. ABOUT ME SECTION -->
 <section class="about-section" style="padding: 24px 0; border-bottom: 1px solid #e2e8f0; margin-bottom: 36px;">
   <div style="max-width: 720px; line-height: 1.6; color: #334155; margin-bottom: 20px;">
-    {% capture about_content %}{% include_relative about.md %}{% endcapture %}
-    {{ about_content | markdownify }}
+    {% include about.md %}
   </div>
   
   <div class="about-links">
