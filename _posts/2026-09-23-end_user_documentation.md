@@ -19,7 +19,7 @@ Early in my career, I worked as a Training Specialist and Instructional Designer
 The result was a structure that worked for every kind of learner. Those who needed the "why" got it up front, those who wanted the big picture got the read-through, and those who just needed to get the task done could jump straight to the steps. And because every manual followed the same format, users learned how to learn from them, which made each new process easier to pick up than the last.
 
 
-Here is a very basic example
+***Here are a very basic examples***
 
 
 **Summary Paragraph**
