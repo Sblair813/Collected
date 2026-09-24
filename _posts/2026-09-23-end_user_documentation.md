@@ -43,4 +43,17 @@ Select the transaction you wish to view from the Files Pipeline view.  Select **
 3. Click the **Pipeline** tab to return to the Pipeline.
 
 ---
+**My Suggestions**
+
 I often don't see or don't use the Read-Through instructions, but I do always use the Summary Paragraph and the Step by Step Instructions.  
+
+1. **List Prerequisites first** Anything users need before starting, like access rights, information to have on hand, or a prior task to complete, should come before step one, not halfway through.
+2. **Start each step with an action verb** 'Click', 'Select', or 'Go to' tells users immediately what to do, so they don't have to hunt.
+3. **What before where (in most cases)** 'Click New from the menu bar' helps users know the action, and where the action is located. 
+4. **Words must match the screen** Button names, menus, and columns should match in the instructions exactly, preferebly in bold, so users can spot them instantly.
+5. **Place visuals with the step they support** A screenshot is only helpful if users can see it while reading the matching step.
+6. **Be Consistant** If you call it a "dropdown" in one step, don't call it a "list" or "menu" in the next.
+7. **Warning Ahead** Warn users ahead of critical steps (such as steps that cannot be undone) BEFORE the step!
+8. **Explain decision points clearly** When a path splits based on a decision, make sure conditions or next steps are clear.
+9. **Split long processes into sub sections** Long processes are easier to follow when grouped into smaller subtasks with their own headings.
+10. **End with a clear finish** A final confirmation, like "Your request has been submitted," tells users the task is complete.
