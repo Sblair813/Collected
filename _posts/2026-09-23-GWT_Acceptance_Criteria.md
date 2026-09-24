@@ -33,7 +33,7 @@ Here's a generic example for new functionality- a Help Request module in an appl
 
 
 
-Scenario 1:
+**Scenario 1:**
 
 
 **GIVEN** I am logged into the Pack application
@@ -45,7 +45,7 @@ Scenario 1:
 
 
 
-Scenario 2:
+**Scenario 2:**
 
 
 **GIVEN** I am on the New Request screen
@@ -61,7 +61,7 @@ Scenario 2:
 
 
 
-Scenario 3:
+**Scenario 3:**
 
 
 **GIVEN** I have selected a reason
