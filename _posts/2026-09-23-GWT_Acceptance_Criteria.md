@@ -28,9 +28,9 @@ It changed how I worked, too. Writing in GWT forced me to think through every te
 
 Think of it this way: here's where we start, here's what happens, and here's what should happen as a result.
 
-Here's a generic example for a Help Request module in an application.
+Here's a generic example for new functionality- a Help Request module in an application.
 
-NEW FUNCTIONALITY: Help Request
+
 Scenario 1:
 
 
