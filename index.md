@@ -54,8 +54,40 @@ I am a De Facto Product Manager, Solutions Architect, and Senior Application Sys
 </ul>
 
 </section>
+<!-- 3. TECHNICAL SCRIPTS & ANALYSIS SECTION -->
+<section class="scripts-section" style="margin-bottom: 36px; padding-bottom: 24px; border-bottom: 1px solid #e2e8f0;">
 
-<!-- 3. PROJECTS AND PURSUITS SECTION -->
+<h2 style="font-size: 1.5rem; font-weight: 600; color: #0f172a; margin-bottom: 20px;">
+  Technical Scripts & Analysis
+</h2>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px;">
+  
+  <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 20px;">
+    <h3 style="font-size: 1.05rem; font-weight: 600; margin-top: 0; margin-bottom: 8px; color: #0f172a;">
+      Order Fulfillment Troubleshooting Script
+    </h3>
+    <p style="font-size: 0.9rem; color: #475569; margin-bottom: 12px; line-height: 1.5;">
+      Python automation to identify order stuck states, validate payload mappings, and resolve integration routing errors across OMS/WMS workflows.
+    </p>
+    <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/scripts/sample_sql_troubleshoot.py" target="_blank" rel="noopener" style="font-size: 0.875rem; font-weight: 600; color: #2563eb; text-decoration: none;">View Code on GitHub &rarr;</a>
+  </div>
+
+  <div style="background: #ffffff; border: 1px solid #e2e8f0; border-radius: 8px; padding: 20px;">
+    <h3 style="font-size: 1.05rem; font-weight: 600; margin-top: 0; margin-bottom: 8px; color: #0f172a;">
+      QC Observation Data Collector
+    </h3>
+    <p style="font-size: 0.9rem; color: #475569; margin-bottom: 12px; line-height: 1.5;">
+      Python utility designed to capture, parse, and categorize warehouse picking and packing audit exceptions during quality control sweeps.
+    </p>
+    <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/scripts/qc_observation.py" target="_blank" rel="noopener" style="font-size: 0.875rem; font-weight: 600; color: #2563eb; text-decoration: none;">View Code on GitHub &rarr;</a>
+  </div>
+
+</div>
+
+</section>
+
+<!-- 4. PROJECTS AND PURSUITS SECTION -->
 <section class="projects-section" style="margin-bottom: 36px;">
 
 <h2 style="font-size: 1.5rem; font-weight: 600; color: #0f172a; margin-bottom: 20px;">
@@ -89,3 +121,4 @@ I am a De Facto Product Manager, Solutions Architect, and Senior Application Sys
 </div>
 
 </section>
+
