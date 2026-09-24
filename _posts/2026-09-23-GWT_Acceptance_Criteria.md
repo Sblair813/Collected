@@ -33,11 +33,15 @@ Here's a generic example for a Help Request module in an application.
 NEW FUNCTIONALITY: Help Request
 
 **GIVEN** I am logged into the Pack application
+
 **WHEN** the home screen displays
+
 **THEN** I see the New Request button
 
 **GIVEN** I am on the New Request screen
+
 **WHEN** I click the Reason drop-down
+
 **THEN** I see the following options:
 
 * Supplies
@@ -46,8 +50,11 @@ NEW FUNCTIONALITY: Help Request
 * Login Errors
 
 **GIVEN** I have selected a reason
+
 **WHEN** I click Submit
+
 **THEN** I see a confirmation message that my request was submitted
+
 
 
 
