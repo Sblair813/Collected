@@ -4,7 +4,7 @@ title: "End User Documentation Conciderations"
 date: 2026-09-23
 ---
 
-Work in Progress--
+**Work in Progress--
 
 Early in my career, I worked as a Training Specialist and Instructional Designer for a company that produced excellent instructional manuals grounded in consistency. I learned from the best.
 
