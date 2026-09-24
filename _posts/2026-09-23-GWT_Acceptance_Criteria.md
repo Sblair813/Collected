@@ -11,7 +11,7 @@ By now, you've probably heard of Given-When-Then (GWT). If you aren't using this
 GWT not only gives developers a clear understanding of the work, it also gives QA a roadmap for testing. That is, if it's done well!
 
 Once we adopted GWT, my team experienced:
-* well written, complete technical stories 
+* Well written, complete technical stories 
 * A shared language across business, development, and QA
 * Fewer bugs
 * Less rework
