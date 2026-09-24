@@ -38,6 +38,8 @@ NEW FUNCTIONALITY: Help Request
 
 **THEN** I see the New Request button
 
+
+
 **GIVEN** I am on the New Request screen
 
 **WHEN** I click the Reason drop-down
