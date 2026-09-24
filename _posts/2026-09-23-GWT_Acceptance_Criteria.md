@@ -28,10 +28,12 @@ It changed how I worked, too. Writing in GWT forced me to think through every te
 
 Think of it this way: here's where we start, here's what happens, and here's what should happen as a result.
 
+---
 Here's a generic example for new functionality- a Help Request module in an application.
 
 
 
+Scenario 1:
 
 
 **GIVEN** I am logged into the Pack application
@@ -43,6 +45,7 @@ Here's a generic example for new functionality- a Help Request module in an appl
 
 
 
+Scenario 2:
 
 
 **GIVEN** I am on the New Request screen
@@ -58,6 +61,7 @@ Here's a generic example for new functionality- a Help Request module in an appl
 
 
 
+Scenario 3:
 
 
 **GIVEN** I have selected a reason
