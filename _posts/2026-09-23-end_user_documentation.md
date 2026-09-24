@@ -21,12 +21,11 @@ The result was a structure that worked for every kind of learner. Those who need
 
 ***Here are a very basic examples***
 
-| # | Process | Example |
-| --- | --- | --- |
-| 1 | Summary Paragraph | Application Summary displays the summary of the application including the type of mortgage and terms of loan, property information and purpose of loan, and borrower information. |
-| 2 | Read-through instructions | Select the transaction you wish to view from the Files Pipeline view.  Select **View Application Summary** from the Action Menu.  Click the **Pipeline** tab to return to the Pipeline. |
-| 3 | Step by Step Insructions | 1. Select the transaction you wish to view from the Files Pipeline view.
-   *Click the applicants name to view applicant details and contact information.*
+| Process | Example |
+| --- | --- |
+| Summary Paragraph | Application Summary displays the summary of the application including the type of mortgage and terms of loan, property information and purpose of loan, and borrower information. |
+| Read-through instructions | Select the transaction you wish to view from the Files Pipeline view.  Select **View Application Summary** from the Action Menu.  Click the **Pipeline** tab to return to the Pipeline. |
+| Step by Step Instructions | 1. Select the transaction you wish to view from the Files Pipeline view. *Click the applicants name to view applicant details and contact information.* 
 2. Select **View Application Summary** from the Action Menu.  
 3. Click the **Pipeline** tab to return to the Pipeline. |
 
@@ -36,7 +35,7 @@ The result was a structure that worked for every kind of learner. Those who need
 Application Summary displays the summary of the application including the type of mortgage and terms of loan, property information and purpose of loan, and borrower information. 
 
 
-**Read-through instructions**
+**Read-through Instructions**
 
 
 Select the transaction you wish to view from the Files Pipeline view.  Select **View Application Summary** from the Action Menu.  Click the **Pipeline** tab to return to the Pipeline.
