@@ -30,9 +30,10 @@ Application Summary displays the summary of the application including the type o
 
 
 1. Select the transaction you wish to view from the Files Pipeline view.
+   
    *Click the applicants name to view applicant details and contact information.*
-2. Select **View Application Summary** from the Action Menu.  
-3. Click the **Pipeline** tab to return to the Pipeline.
+3. Select **View Application Summary** from the Action Menu.  
+4. Click the **Pipeline** tab to return to the Pipeline.
 
 ---
 **My Suggestions**
