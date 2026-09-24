@@ -31,7 +31,7 @@ Think of it this way: here's where we start, here's what happens, and here's wha
 Here's a generic example for a Help Request module in an application.
 
 NEW FUNCTIONALITY: Help Request
-
+Scenario 1:
 **GIVEN** I am logged into the Pack application
 
 **WHEN** the home screen displays
@@ -39,7 +39,7 @@ NEW FUNCTIONALITY: Help Request
 **THEN** I see the New Request button
 
 
-
+Scenario 2:
 **GIVEN** I am on the New Request screen
 
 **WHEN** I click the Reason drop-down
@@ -51,6 +51,7 @@ NEW FUNCTIONALITY: Help Request
 * Technical Support
 * Login Errors
 
+Scenario 3:
 **GIVEN** I have selected a reason
 
 **WHEN** I click Submit
